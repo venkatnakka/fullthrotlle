@@ -20,4 +20,4 @@ python manage.py runserver
 
 
 to get userlist on heroku:
-endpoint is fulthrottle0506.heroku.app/user
+endpoint is fulthrottle0506.herokuapp/user
